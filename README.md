@@ -12,3 +12,7 @@ Kontribusi Anggota
 2. Syaloom Zefanya Yuni Br Manurung (21102036):
    - Mencari dataset
    - Melakukan pengerjaan program
+
+Dataset : https://drive.google.com/drive/folders/1DJP8IlJQSxoiAeaY3nj57P__6_MsU930?usp=sharing
+
+
